@@ -1,5 +1,5 @@
 # waveFunctionColapse
-This is a realy simple and uneficient implementation of the wave function colapse algorithm with C# and some ascii characters. have been some time since i did something with C#, this implementation is a doodle i made in class to remember the sintax etc... .
+This is a realy simple and unoptimized implementation of the wave function colapse algorithm with C# and some ascii characters. have been some time since i did something with C#, this implementation is a doodle i made in class to remember the sintax etc... .
 
 There is DIMENTIONS and a TILESET variables that you can fidle with. You can also uncomment the Infinite loop region to 
 make it keep generating indefinately.
